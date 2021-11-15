@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2021-11-15 17:20:46
+  end_time: 2021-11-15 17:20:46
+  places: 1
+  places_left: 1
+
+two:
+  start_time: 2021-11-15 17:20:46
+  end_time: 2021-11-15 17:20:46
+  places: 1
+  places_left: 1
